@@ -1,40 +1,37 @@
 body { 
     background-color: rgb(53, 158, 172);
     color: rgb(255, 255, 255);
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 #ip {
 
-height: 400px;
+height: 600px;
 display: block;
-margin-left: 810px;
+margin-left: 570px;
 margin-top: 50px;
+width: 700px;
+object-fit: cover;
 }
 
 .galerie {
-    width: 200px;
-    margin: 0 5px;
-    height: 200px;
+    width: 450px;
+    height: 500px;
     object-fit: cover;
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 90px;
+    margin-top: 30px;
 }
 
 b {
     color: black;
 }
 
-h4 {
-    color: aquamarine;
-    margin-left: 880px;
-}
-
 a {
-    margin-left: 420px;
-    color: red;
+    margin: 10px;
 }
 
 h2 {
-    margin-left: 810px;
+    margin-left: 770px;
     color: rgb(95, 25, 25);
 }
