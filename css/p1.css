@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/fundal1.jpg");
+    background-position-x: 50%;
+    background-size: cover;
+}
+
+h4 {
+    color: rgb(58, 2, 2);
+}
+
+h2 {
+    margin-left: 825px;
+    color: yellow;
+}
+
+h4 {
+    margin-left: 903px;
+    color: rgb(5, 42, 73);
+}
+
+p {
+    margin-top: 90px;
+}
+
+a {
+    margin-left: 420px;
+}

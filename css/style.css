@@ -1,0 +1,40 @@
+body { 
+    background-color: rgb(53, 158, 172);
+    color: rgb(255, 255, 255);
+}
+
+#ip {
+
+height: 400px;
+display: block;
+margin-left: 810px;
+margin-top: 50px;
+}
+
+.galerie {
+    width: 200px;
+    margin: 0 5px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+b {
+    color: black;
+}
+
+h4 {
+    color: aquamarine;
+    margin-left: 880px;
+}
+
+a {
+    margin-left: 420px;
+    color: red;
+}
+
+h2 {
+    margin-left: 810px;
+    color: rgb(95, 25, 25);
+}
